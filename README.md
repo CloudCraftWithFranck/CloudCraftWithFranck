@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
-    <img src="https://via.placeholder.com/800x200.png?text=Cloud+Craft+with+Franck+-+Subscribe+for+Cloud+Engineering+Content" alt="Cloud Craft with Franck - YouTube" width="800" />
+    <img src="[https://via.placeholder.com/800x200.png?text=Cloud+Craft+with+Franck+-+Subscribe+for+Cloud+Engineering+Content](https://github.com/user-attachments/assets/4f3aa4e7-247b-4a0c-86e0-b7188300e3b4)" alt="Cloud Craft with Franck - YouTube" width="800" />
   </a>
 </p>
 
