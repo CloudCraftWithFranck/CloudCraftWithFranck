@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Franck Kengne</h1>
 <h3 align="center">🚀 Cloud Advocate | Sharing Practical Tutorials & Insights.</h3>
+## 🎥 Check Out My YouTube Channel!
+
+<a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
+  <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Cloud Craft with Franck" />
+</a>
+
+---
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
+    <img src="https://via.placeholder.com/800x200.png?text=Cloud+Craft+with+Franck+-+Subscribe+for+Cloud+Engineering+Content" alt="Cloud Craft with Franck - YouTube" width="800" />
+  </a>
+</p>
 
 ![White and Blue modern youtube thumbnail](https://github.com/user-attachments/assets/4f3aa4e7-247b-4a0c-86e0-b7188300e3b4)
 
