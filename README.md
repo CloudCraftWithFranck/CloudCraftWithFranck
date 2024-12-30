@@ -12,9 +12,9 @@
 
 ![White and Blue modern youtube thumbnail](https://github.com/user-attachments/assets/4f3aa4e7-247b-4a0c-86e0-b7188300e3b4)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franckya&label=Profile%20views&color=0e75b6&style=flat" alt="franckya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CloudCraftWithFranck&label=Profile%20views&color=0e75b6&style=flat" alt="CloudCraftWithFranck" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckya" alt="franckya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CloudCraftWithFranck" alt="CloudCraftWithFranck" /></a> </p>
 
 - 🔭 I’m currently working on [Building customs docker images for my students](https://hub.docker.com/repositories/yakengne)
 
