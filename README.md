@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franck Kengne</h1>
-<h3 align="center">🚀 Cloud Advocate | Sharing Practical Tutorials & Insights.</h3>
-## 🎥 Check Out My YouTube Channel!
+<h3 align="center">🚀 Hi, I’m Franck! I’m a Cloud Engineer and Content Creator, passionate about making cloud technologies accessible to everyone. I share hands-on tutorials, insightful articles, and practical tools to help you master Docker, Azure, and cloud-native development.</h3>
+<h3 align="center"> 🎥 Check Out My YouTube Channel!</h3>
 
 <a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
   <img src="https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Cloud Craft with Franck" />
