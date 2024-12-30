@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franck Kengne</h1>
-<h3 align="center">🚀 Hi, I’m Franck! I’m a Cloud Engineer and Content Creator, passionate about making cloud technologies accessible to everyone. I share hands-on tutorials, insightful articles, and practical tools to help you master Docker, Azure, and cloud-native development.</h3>
+<h3 align="center">🚀 Hi, I’m Franck! I’m a Cloud Engineer and Content Creator.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&width=800&lines=Welcome+to+Cloud+Craft+with+Franck!;Empowering+the+Cloud+Engineering+World;Learn+Docker%2C+Azure%2C+and+DevOps+with+Me!" alt="Typing SVG" />
+</p>
+
 <h3 align="center"> 🎥 Check Out My YouTube Channel!</h3>
 
 <h3 align="center"><a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
