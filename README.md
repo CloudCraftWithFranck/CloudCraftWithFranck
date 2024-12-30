@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Franck Kengne</h1>
 <h3 align="center">🚀 Cloud Advocate | Sharing Practical Tutorials & Insights.</h3>
 
+![White and Blue modern youtube thumbnail](https://github.com/user-attachments/assets/4f3aa4e7-247b-4a0c-86e0-b7188300e3b4)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckya&label=Profile%20views&color=0e75b6&style=flat" alt="franckya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franckya" alt="franckya" /></a> </p>
