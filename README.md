@@ -31,6 +31,14 @@
 <a href="https://linkedin.com/in/yannick-djomo-0822a6233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yannick-djomo-0822a6233" height="30" width="40" /></a>
 </p>
 
+
+### 🚀 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudCraftWithFranck&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CloudCraftWithFranck&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCraftWithFranck&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 🛠 Languages, Tools, and Cloud Services:
 
 ### **Cloud Providers**
