@@ -107,3 +107,13 @@
   <img src="https://img.shields.io/badge/Travis%20CI-%239F1A1B.svg?style=for-the-badge&logo=travis-ci&logoColor=white" alt="Travis CI" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
+
+### 😂 Random Programming Joke:
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### 🎥 Let’s Learn Together!
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-Cloud%20Craft%20with%20Franck-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Cloud Craft with Franck" />
+  </a>
+</p>
