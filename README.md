@@ -53,3 +53,76 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franckya&show_icons=true&locale=en" alt="franckya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckya&" alt="franckya" /></p>
+
+
+
+
+## 🛠 Languages, Tools, and Cloud Services:
+
+### **Cloud Providers**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/IBM%20Cloud-%230052B5.svg?style=for-the-badge&logo=ibm-cloud&logoColor=white" alt="IBM Cloud" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digital-ocean&logoColor=white" alt="Digital Ocean" />
+  <img src="https://img.shields.io/badge/Linode-%2300C853.svg?style=for-the-badge&logo=linode&logoColor=white" alt="Linode" />
+  <img src="https://img.shields.io/badge/Alibaba%20Cloud-%23FF6A00.svg?style=for-the-badge&logo=alibaba-cloud&logoColor=white" alt="Alibaba Cloud" />
+</p>
+
+---
+
+### **Compute**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/VMware-%23607CDB.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/Azure%20VMs-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Virtual Machines" />
+  <img src="https://img.shields.io/badge/Google%20Compute%20Engine-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Compute Engine" />
+</p>
+
+---
+
+### **Networking**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS VPC" />
+  <img src="https://img.shields.io/badge/Azure%20Virtual%20Network-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Virtual Network" />
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Load%20Balancers-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Load Balancers" />
+</p>
+
+---
+
+### **Storage**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Blob Storage" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Storage" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### **Security**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS IAM" />
+  <img src="https://img.shields.io/badge/Azure%20AD-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Active Directory" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-%23601A1A.svg?style=for-the-badge&logo=Vault&logoColor=white" alt="HashiCorp Vault" />
+  <img src="https://img.shields.io/badge/Certbot-%2315BA00.svg?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Certbot" />
+</p>
+
+---
+
+### **DevOps Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Travis%20CI-%239F1A1B.svg?style=for-the-badge&logo=travis-ci&logoColor=white" alt="Travis CI" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
+
