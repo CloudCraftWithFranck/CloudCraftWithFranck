@@ -117,7 +117,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="center">
-### 🎥 Let’s Learn Together!
+🎥 Let’s Learn Together!
 <p align="center">
   <a href="https://www.youtube.com/channel/UCy4exXeg1PckAaWuPM6kjEw" target="_blank">
     <img src="https://img.shields.io/badge/Subscribe-Cloud%20Craft%20with%20Franck-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Cloud Craft with Franck" />
