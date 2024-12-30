@@ -112,10 +112,9 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
-<h3 align="center">
+
 ### 😂 Random Programming Joke:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</h3>
 
 <h3 align="center">
 ### 🎥 Let’s Learn Together!
