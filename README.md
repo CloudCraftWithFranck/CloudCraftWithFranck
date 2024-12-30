@@ -107,9 +107,3 @@
   <img src="https://img.shields.io/badge/Travis%20CI-%239F1A1B.svg?style=for-the-badge&logo=travis-ci&logoColor=white" alt="Travis CI" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franckya&show_icons=true&locale=en&layout=compact" alt="franckya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franckya&show_icons=true&locale=en" alt="franckya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckya&" alt="franckya" /></p>
